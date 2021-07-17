@@ -1,4 +1,4 @@
-package com.bridgelabz.stack;
+package stack;
 
 public class Stack {
     private ListNode top;

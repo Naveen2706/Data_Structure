@@ -1,4 +1,4 @@
-package com.bridgelabz.queue;
+package queue;
 
 import java.util.Scanner;
 
